@@ -1,8 +1,7 @@
 #include <iostream>
 
 int Policz(int a, int b) {
-    return a + b;
-    //a
+    return a * b;
 }
 
 int main() {
