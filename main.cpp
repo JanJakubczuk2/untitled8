@@ -2,6 +2,7 @@
 
 int Policz(int a, int b) {
     return a + b;
+    //a
 }
 
 int main() {
